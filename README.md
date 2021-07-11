@@ -8,7 +8,7 @@ It is an arduino based project. We created an android application to connect the
 
 Owner can assign 4 digit password to the lock system. He can open the door by typing the password in the mobile application. LCD display and Keypad is attached with the door lock for open the door by entering the password. Authorized people can open the door by using the mobile application or keypad attached with door. Person inside the room can open the door with the help of touch sensor by touching the door.
 
-###**Advantages**
+### **Advantages**
 
 Somebody can break into your home or you can be locked yourself out while losing the keys.  with the introduction of smart door locking system, all these concerns will be history.  Install a smart door locking system and enjoy the great ease of access like never before. It is the futuristic technology where you can unlock the door by tapping your smartphone. You just need to connect your smartphone Bluetooth to do all that. 
 
