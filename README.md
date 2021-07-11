@@ -17,13 +17,13 @@ Somebody can break into your home or you can be locked yourself out while losing
 1. You Need a Smartphone for That:
 - You need to pair your smartphone’s Bluetooth with deadbolt to lock or unlock your keys. Just simply tap that deadbolt to open your door.Yeah, it’s pretty cool and handy in the situation when you lose your keys. Plus, it gives you a freedom of carrying the bunch of keys with you.
 
-2.Send e-Keys to Your Near and Dear Ones:
+2. Send e-Keys to Your Near and Dear Ones:
 - Don’t make your family members and friends wait outside because you’re not at home. Send the eKeys to them via the mobile app so that they can let in. This is the other great benefit of using smart locking system. So, you don’t need to skip office hours or send somebody else to hand over them a key.
 
-3.Ensures You a High Security:
+3. Ensures You a High Security:
 - Burglary is the common threat for all home owners. Any unwelcome guest can easily break into your home, no matter how stronger your lock is. But a smart locking system is the hard nut to crack for them, since it is without any keys. With smart door locking system, you can decide who can enter your home at what time. It lowers the risk of anything get stolen.
 
-4.Convenient for Elderly and Physically Impaired People:
+4. Convenient for Elderly and Physically Impaired People:
 - Technology has made the living much easier for disabled or elderly people. And smart door locking system is no exception in that! Since it can be opened with smartphone, a senior citizen or disabled don’t have to struggle with keys or go near the door to open it.
 
 ### **Disadvantage** 
